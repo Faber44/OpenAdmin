@@ -21,13 +21,13 @@
     },
     "autoload": {
         "psr-4": {
-            "faber44\\OpenAdmin\\MediaLibrary\\": "src/"
+            "Faber44\\OpenAdmin\\MediaLibrary\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "faber44\\OpenAdmin\\MediaLibrary\\MediaLibraryServiceProvider"
+                "Faber44\\OpenAdmin\\MediaLibrary\\MediaLibraryServiceProvider"
             ]
 
         }
