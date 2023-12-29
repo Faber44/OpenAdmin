@@ -1,6 +1,6 @@
 <?php
 
-namespace Faber44\LaravelAdmin\MediaLibrary;
+namespace Faber44\OpenAdmin\MediaLibrary;
 
 use Illuminate\Support\ServiceProvider;
 use OpenAdmin\Admin\Admin;

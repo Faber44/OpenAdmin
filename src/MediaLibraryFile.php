@@ -1,6 +1,6 @@
 <?php
 
-namespace Faber44\LaravelAdmin\MediaLibrary;
+namespace Faber44\OpenAdmin\MediaLibrary;
 
 use OpenAdmin\Admin\Form\Field\File;
 #use Spatie\MediaLibrary\Models;

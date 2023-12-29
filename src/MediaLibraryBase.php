@@ -1,6 +1,6 @@
 <?php
 
-namespace Faber44\LaravelAdmin\MediaLibrary;
+namespace Faber44\OpenAdmin\MediaLibrary;
 
 use OpenAdmin\Admin\Form\NestedForm;
 use Spatie\MediaLibrary\MediaCollections\Models\Collections\MediaCollection;
