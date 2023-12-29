@@ -1,5 +1,5 @@
 {
-    "name": "Faber44/laravel-admin-media-library",
+    "name": "Faber44/open-admin-media-library",
     "description": "Media-library extension for Laravel Open-Admin",
     "type": "library",
     "keywords": ["Open-Admin", "extension", "media-library", "media", "Spatie"],
