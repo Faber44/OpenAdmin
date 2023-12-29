@@ -1,8 +1,8 @@
 <?php
 
-namespace Nicklasos\LaravelAdmin\MediaLibrary;
+namespace Faber44\LaravelAdmin\MediaLibrary;
 
-use Encore\Admin\Extension;
+use OpenAdmin\Admin\Extension;
 
 class MediaLibrary extends Extension
 {

@@ -1,33 +1,33 @@
 {
-    "name": "nicklasos/laravel-admin-media-library",
-    "description": "Media-library extension for laravel-admin",
+    "name": "Faber44/laravel-admin-media-library",
+    "description": "Media-library extension for Laravel Open-Admin",
     "type": "library",
-    "keywords": ["laravel-admin", "extension", "media-library", "media"],
-    "homepage": "https://github.com/nicklasos/laravel-admin-media-library",
+    "keywords": ["Open-Admin", "extension", "media-library", "media", "Spatie"],
+    "homepage": "https://github.com/Faber44/open-admin-media-library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Nicklasos",
-            "email": "nicklasos@gmail.com"
+            "name": "Faber",
+            "email": "faber44@gmail.com"
         }
     ],
     "require": {
-        "php": "^8.0.2",
-        "encore/laravel-admin": "~1.8",
+        "php": "^8.1",
+        "open-admin-org/open-admin": "^1.0",
         "spatie/laravel-medialibrary": "^10.0.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5.10"
+        "phpunit/phpunit": "^10.1"
     },
     "autoload": {
         "psr-4": {
-            "Nicklasos\\LaravelAdmin\\MediaLibrary\\": "src/"
+            "Faber44\\OpenAdmin\\MediaLibrary\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nicklasos\\LaravelAdmin\\MediaLibrary\\MediaLibraryServiceProvider"
+                "Faber44\\OpenAdmin\\MediaLibrary\\MediaLibraryServiceProvider"
             ]
 
         }

@@ -1,10 +1,10 @@
 <?php
 
-namespace Nicklasos\LaravelAdmin\MediaLibrary;
+namespace Faber44\LaravelAdmin\MediaLibrary;
 
 use Illuminate\Support\ServiceProvider;
-use Encore\Admin\Admin;
-use Encore\Admin\Form;
+use OpenAdmin\Admin\Admin;
+use OpenAdmin\Admin\Form;
 
 class MediaLibraryServiceProvider extends ServiceProvider
 {
