@@ -4,7 +4,7 @@ Spatie Media-Library extension for Laravel-Admin
 ### Install
 
 ```
-composer require Faber44/laravel-admin-media-library
+composer require Faber44/open-admin-media-library
 ```
 
 ### Usage
@@ -45,4 +45,5 @@ class MyModel extends Model implements HasMedia
 }
 ```
 Thanks to [nicklasos/laravel-admin-media-library](https://github.com/nicklasos/laravel-admin-media-library).
+
 Thanks to [luischavez/laravel-admin-media-library](https://github.com/luischavez/laravel-admin-media-library) for code samples.
