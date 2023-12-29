@@ -1,8 +1,8 @@
 <?php
 
-namespace Nicklasos\LaravelAdmin\MediaLibrary;
+namespace Faber44\LaravelAdmin\MediaLibrary;
 
-use Encore\Admin\Form\Field\MultipleFile;
+use OpenAdmin\Admin\Form\Field\MultipleFile;
 use Spatie\MediaLibrary\Models\Media;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
 

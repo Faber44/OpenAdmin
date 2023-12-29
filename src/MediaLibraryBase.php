@@ -1,8 +1,8 @@
 <?php
 
-namespace Nicklasos\LaravelAdmin\MediaLibrary;
+namespace Faber44\LaravelAdmin\MediaLibrary;
 
-use Encore\Admin\Form\NestedForm;
+use OpenAdmin\Admin\Form\NestedForm;
 use Spatie\MediaLibrary\MediaCollections\Models\Collections\MediaCollection;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
 use URL;
